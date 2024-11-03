@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=humam-dwikat&show_icons=true&locale=en&layout=compact" alt="humam-dwikat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/![Screenshot from 2024-11-03 11-46-03](https://github.com/user-attachments/assets/84e9df30-6179-40a4-9804-7f932acf4cd5)
-api?username=humam-dwikat&show_icons=true&locale=en" alt="humam-dwikat" /></p>
-![Uploading Screenshot from 2024-11-03 11-46-03.png…]()
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=humam-dwikat&show_icons=true&locale=en" alt="humam-dwikat" /></p>
