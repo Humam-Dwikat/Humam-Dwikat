@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Elasticsearch**
 
-- 📫 How to reach me **humamdwik@gmai.com**
+- 📫 How to reach me **humamdwik@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1p8vVxRJdQtaDOAS8V0wskpEDQhVOTAoR/edit?usp=sharing&ouid=103368111089316143786&rtpof=true&sd=true](https://docs.google.com/document/d/1p8vVxRJdQtaDOAS8V0wskpEDQhVOTAoR/edit?usp=sharing&ouid=103368111089316143786&rtpof=true&sd=true)
 
